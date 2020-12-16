@@ -1,5 +1,6 @@
 # Happy500Line
 I have a happy 500 lines, today to share with you, don't thank me oh, love you mua
+
 #readme
 1该程度可用于对学生的饭长信息方式基体信息的存储浏党删除添加、退出、输出、挂失等操作,以实现对学生饭卡信息的管理,便于国学使用
 2.程后中设计的查询功能可根据需要从若干数据中查询某个学生饭卡信息,并且可查询以满足不同的需要
